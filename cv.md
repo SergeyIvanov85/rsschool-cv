@@ -1,8 +1,8 @@
- # **SERGEY IVANOV** 
+# **SERGEY IVANOV** 
 *****************************
- ### Junior Frontend Developer 
+### Junior Frontend Developer 
 *****************************
- ### *Contact information*: 
+### *Contact information*: 
 
 * Phone: +375 29 750 08 81
 * E-mail: koldyn85@yandex.ru
