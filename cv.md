@@ -15,7 +15,7 @@
 * Phone: +375 29 750 08 81
 * E-mail: koldyn85@yandex.ru
 * Telegram: @Sergey_Ivanow
-* [LinkedIn](www.linkedin.com/in/сергей-иванов-a78606210)
+* [LinkedIn](https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-a78606210/)
 * GitHub: SergeyIvanov85
 
 *******
